@@ -1,4 +1,3 @@
-storage_gb = float(input("Enter storage in GB: "))
-if storage_gb < 0: print("Storage cannot be negative.")
-storage_mb = storage_gb * 1024
-print("Storage in MB:", storage_mb)
+storage_mb = float(input("Enter storage in MB: "))
+storage_gb = storage_mb / 1024
+print(f"Storage in GB: {storage_gb:,.2f} GB")
