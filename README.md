@@ -1,4 +1,4 @@
-# Storage Estimator - Main Version
+# Storage Estimator - Main and Feature Version
 
 ## Project Purpose
 This project is a simple Python script created for ICT lab to demonstrate fundamental version control workflows using Git and GitHub. The program takes a storage value in Gigabytes (GB) from the user and converts it to Megabytes (MB).
